@@ -1,0 +1,18 @@
+{
+"ST_ConsumablesDescription␟ConsumablesDescription203": "Наносит магический урон стихии земли.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription212": "Наносит магический урон стихии земли.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription205": "Наносит магический урон стихии воды.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription214": "Наносит магический урон стихии воды.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription201": "Наносит магический урон стихии льда.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription210": "Наносит магический урон стихии льда.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription200": "Наносит магический урон стихии огня.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription209": "Наносит магический урон стихии огня.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription204": "Наносит магический урон стихии молнии.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription213": "Наносит магический урон стихии молнии.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription202": "Наносит магический урон стихии ветра.\nПри броске урон выше, цель — все противники.",
+"ST_ConsumablesDescription␟ConsumablesDescription211": "Наносит магический урон стихии ветра.\nПри броске урон выше, цель — все противники.",
+"ST_CommandSkillDescription␟CommandSkillDescription8": "Применить чёрную магию через магию меча.",
+"ST_CommandSkillDescription␟CommandSkillDescription18": "Применить способность ведьмы Фины.",
+"ST_PassiveSkillDescription␟PassiveSkillDescription1442": "Срабатывает при приёме эйкона с полной шкалой предела. Каждое действие тратит 30% шкалы, но повышает все характеристики и восстанавливает ОЗ.",
+"ST_PassiveSkillDescription␟PassiveSkillDescription1437": "Обычные атаки и боевые приёмы повышают урон и урон пробития по противнику. Эффект суммируется, но сбрасывается после урона другой атакой."
+}

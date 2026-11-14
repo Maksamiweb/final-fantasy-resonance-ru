@@ -1,0 +1,17 @@
+# файлы игры и сторонние библиотеки — не публикуются
+orig/
+ru/
+base/
+fonts/
+tex/
+tut/
+build/
+release/
+*.dll
+*.exe
+*.pak
+*.utoc
+*.ucas
+*.locres
+*.zip
+__pycache__/
